@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Ketlynvitor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Boas vindas oa meu perfil
 
-<!---
-Ketlynvitor/Ketlynvitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Ketlyn Vitoria 
+
+
+-Estou estudando na [alura](https://www.alura.com.br)
+-Estou me integrando no JavaScriopt
+-Utilizo este espaço para me organizar e publicar meus projetos
+
+## VOCÊ ENTRAR EM CONTATO COMIGO 
+
+00001104685784sp@al.educacao.sp.gov.br
+
+[]!tps://media1.tenor.com/m/ZARBViZffU4AAAAd/hd-smirk.gif
